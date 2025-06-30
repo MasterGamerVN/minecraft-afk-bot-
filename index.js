@@ -10,7 +10,7 @@ function createBot() {
     host: 'SinhTon1215Neoforge.aternos.me',
     port: 54220,
     username: 'AFK_Bot123',
-    version: '1.21.5'
+    version: '1.21'
   });
 
   bot.on('login', () => {
