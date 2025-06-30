@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "mineflayer": "github:PrismarineJS/mineflayer",
-    "minecraft-protocol": "github:PrismarineJS/node-minecraft-protocol",
+    "mineflayer": "^4.12.0",
     "express": "^4.18.2"
   },
   "scripts": {
     "start": "node index.js"
   }
 }
+
